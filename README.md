@@ -18,7 +18,7 @@ Follow the sequence of steps detailed in each Jupyter notebook. Start with `Step
   
 - **Step3_outputs**: Stores the final datasets and other outputs generated during the third step, focused on BERT based classification models.
 
-- **Archived_code**: This folder contains initial code and experiments that were conducted during the early stages of the project. It serves as an archive for some of the work attempted at the start but not taken further or earlier versions of current work.
+- **Explored_code**: This folder contains initial code and experiments that were conducted during the early stages of the project. It serves as an archive for some of the work attempted at the start but not taken further or earlier versions of current work.
 
   
   
