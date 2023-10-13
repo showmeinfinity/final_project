@@ -3,7 +3,7 @@
 ## Introduction
 
 This repository contains the code, datasets, and outputs related to the research on the project Identifying Annotator Disagreement Offensive Text Classification: A Graph-Based Clustering Approach. The repository is systematically organised. 
-Follow the sequence of steps detailed in each Jupyter notebook. Start with 'Step1_inputs' and `Step_1_Preprocessing_data_and_EDA.ipynb` and proceed in numerical order and view outputs.
+Follow the sequence of steps detailed in each Jupyter notebook. Start with `Step1_inputs` and `Step_1_Preprocessing_data_and_EDA.ipynb` and proceed in numerical order and view outputs.
 
 ## File and Folder Structure
 
